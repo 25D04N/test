@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-
+// anh minh cu hehehe
 public abstract class Graph {
 	protected int numVexs;
 	protected int[][] matrix;
